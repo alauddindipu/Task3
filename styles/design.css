@@ -25,7 +25,6 @@ section {
 }
 
 .text1 {
-    /* text-align: center; */
     font-size: 60px;
     font-weight: 450;
     margin-bottom: 0px;
@@ -34,12 +33,8 @@ section {
 
 .text-input {
     text-align: left;
-    margin-left: 500px;
-
-    /* 
-    without margin how may solve?
-    div center
-    text-align left */
+    display: flex;
+    justify-content: center;
 }
 
 
@@ -67,7 +62,7 @@ section {
     font-size: 20px;
     border-color: #FCEAE9;
     /* 
-    mouse click then why change */
+    After mouse click then why some change */
 
 }
 
