@@ -1,0 +1,78 @@
+.roboto-regular {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+section {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+}
+
+
+.section-div {
+    background-color: #FCEAE9;
+    width: 1600px;
+    height: 450px;
+    margin-top: 100px;
+    border-radius: 10px;
+    line-height: 60px;
+    text-align: center;
+    margin-bottom: 50px;
+
+}
+
+.text1 {
+    /* text-align: center; */
+    font-size: 60px;
+    font-weight: 450;
+    margin-bottom: 0px;
+
+}
+
+.text-input {
+    text-align: left;
+    margin-left: 500px;
+
+    /* 
+    without margin how may solve?
+    div center
+    text-align left */
+}
+
+
+.text2 {
+    font-size: 25px;
+    margin-top: 0px;
+    margin-bottom: 0;
+    font-weight: 500;
+}
+
+.btn-class {
+    background-color: #FF3A87;
+    border: none;
+    font-size: 25px;
+    color: white;
+    border-radius: 10px;
+    margin-top: 20px;
+    padding: 15px 30px;
+}
+
+.email-input {
+    padding: 12px;
+    width: 570px;
+    border-radius: 2px;
+    font-size: 20px;
+    border-color: #FCEAE9;
+    /* 
+    mouse click then why change */
+
+}
+
+
+footer {
+
+    text-align: center;
+}
